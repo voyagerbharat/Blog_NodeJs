@@ -1,0 +1,22 @@
+i.icon{
+	font-size:  2em;
+}
+.ui.secondary.inverted.menu {
+    background-color:rgb(27, 28, 29);
+}
+.boom{
+	height:400px;
+	  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.center{
+	margin:0 auto;
+	display: block;
+}
+#inline{
+	display:inline
+}
+.margin{
+	margin-top:7px;
+}
